@@ -96,3 +96,4 @@
 /Users/haroldasvaranauskas/RiderProjects/Fib/RomanNumeralsTests/obj/Debug/net8.0/RomanNumeralsTests.pdb
 /Users/haroldasvaranauskas/RiderProjects/Fib/RomanNumeralsTests/obj/Debug/net8.0/RomanNumeralsTests.genruntimeconfig.cache
 /Users/haroldasvaranauskas/RiderProjects/Fib/RomanNumeralsTests/obj/Debug/net8.0/ref/RomanNumeralsTests.dll
+/Users/haroldasvaranauskas/RiderProjects/Fib/RomanNumeralsTests/obj/Debug/net8.0/RomanNumeralsTests.sourcelink.json
