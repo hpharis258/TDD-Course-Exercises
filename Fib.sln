@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzTests", "FizzBuzzTe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralsTests", "RomanNumeralsTests\RomanNumeralsTests.csproj", "{606B608B-4B7A-4FC6-BC3B-09A31E1D6D89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateableSpinTests", "UpdateableSpinTests\UpdateableSpinTests.csproj", "{3B3535D1-AF57-424A-A938-FBCED2A2C018}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{606B608B-4B7A-4FC6-BC3B-09A31E1D6D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{606B608B-4B7A-4FC6-BC3B-09A31E1D6D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{606B608B-4B7A-4FC6-BC3B-09A31E1D6D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3535D1-AF57-424A-A938-FBCED2A2C018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3535D1-AF57-424A-A938-FBCED2A2C018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3535D1-AF57-424A-A938-FBCED2A2C018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3535D1-AF57-424A-A938-FBCED2A2C018}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
