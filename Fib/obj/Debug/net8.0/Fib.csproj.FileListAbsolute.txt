@@ -1,0 +1,14 @@
+/Users/haroldasvaranauskas/RiderProjects/Fib/Fib/bin/Debug/net8.0/Fib
+/Users/haroldasvaranauskas/RiderProjects/Fib/Fib/bin/Debug/net8.0/Fib.deps.json
+/Users/haroldasvaranauskas/RiderProjects/Fib/Fib/bin/Debug/net8.0/Fib.runtimeconfig.json
+/Users/haroldasvaranauskas/RiderProjects/Fib/Fib/bin/Debug/net8.0/Fib.dll
+/Users/haroldasvaranauskas/RiderProjects/Fib/Fib/bin/Debug/net8.0/Fib.pdb
+/Users/haroldasvaranauskas/RiderProjects/Fib/Fib/obj/Debug/net8.0/Fib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haroldasvaranauskas/RiderProjects/Fib/Fib/obj/Debug/net8.0/Fib.AssemblyInfoInputs.cache
+/Users/haroldasvaranauskas/RiderProjects/Fib/Fib/obj/Debug/net8.0/Fib.AssemblyInfo.cs
+/Users/haroldasvaranauskas/RiderProjects/Fib/Fib/obj/Debug/net8.0/Fib.csproj.CoreCompileInputs.cache
+/Users/haroldasvaranauskas/RiderProjects/Fib/Fib/obj/Debug/net8.0/Fib.dll
+/Users/haroldasvaranauskas/RiderProjects/Fib/Fib/obj/Debug/net8.0/refint/Fib.dll
+/Users/haroldasvaranauskas/RiderProjects/Fib/Fib/obj/Debug/net8.0/Fib.pdb
+/Users/haroldasvaranauskas/RiderProjects/Fib/Fib/obj/Debug/net8.0/Fib.genruntimeconfig.cache
+/Users/haroldasvaranauskas/RiderProjects/Fib/Fib/obj/Debug/net8.0/ref/Fib.dll
