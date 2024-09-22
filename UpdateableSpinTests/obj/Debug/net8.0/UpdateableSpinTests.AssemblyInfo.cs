@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UpdateableSpinTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4c12b751fbc884f8d876b6eb247c243745d470e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+603b915efde821ad335f5624261c10120448d40e")]
 [assembly: System.Reflection.AssemblyProductAttribute("UpdateableSpinTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UpdateableSpinTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

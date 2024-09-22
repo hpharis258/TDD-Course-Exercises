@@ -96,3 +96,4 @@
 /Users/haroldasvaranauskas/RiderProjects/Fib/FibUnitTests/obj/Debug/net8.0/FibUnitTests.pdb
 /Users/haroldasvaranauskas/RiderProjects/Fib/FibUnitTests/obj/Debug/net8.0/FibUnitTests.genruntimeconfig.cache
 /Users/haroldasvaranauskas/RiderProjects/Fib/FibUnitTests/obj/Debug/net8.0/ref/FibUnitTests.dll
+/Users/haroldasvaranauskas/RiderProjects/Fib/FibUnitTests/obj/Debug/net8.0/FibUnitTests.sourcelink.json
