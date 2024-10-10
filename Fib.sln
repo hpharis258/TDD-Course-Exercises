@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeTests", "TicTacToe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeGame", "..\Fibi\TicTacToeGame\TicTacToeGame.csproj", "{245BE965-E0C9-4846-A6D1-8A04FD1B878D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Katas", "Katas", "{6ED66CCC-3BFB-45BF-AB77-BCC852DD478E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackKata", "StackKata\StackKata.csproj", "{78B0C2EE-1435-4545-B118-1A69563D79CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +52,12 @@ Global
 		{245BE965-E0C9-4846-A6D1-8A04FD1B878D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{245BE965-E0C9-4846-A6D1-8A04FD1B878D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{245BE965-E0C9-4846-A6D1-8A04FD1B878D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B0C2EE-1435-4545-B118-1A69563D79CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B0C2EE-1435-4545-B118-1A69563D79CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B0C2EE-1435-4545-B118-1A69563D79CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B0C2EE-1435-4545-B118-1A69563D79CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{78B0C2EE-1435-4545-B118-1A69563D79CD} = {6ED66CCC-3BFB-45BF-AB77-BCC852DD478E}
 	EndGlobalSection
 EndGlobal
